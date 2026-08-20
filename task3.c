@@ -29,6 +29,9 @@ int main() {
     /* Computational timer includes only the search work */
     clock_gettime(CLOCK_MONOTONIC, &startComp);
 
+    /* Pragma splits the iterations of this loop across the threads
+        schedule(dynamic, 1000) hands out 1000 iterations at a time,
+        so a thread that finishes early comes back for more. */
     #pragma omp parallel for schedule(dynamic, 1000)
     for (int num = 3; num < n; num += 2) {
         int is_prime = 1; /* Assume the number is prime */
