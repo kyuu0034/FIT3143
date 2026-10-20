@@ -1,0 +1,129 @@
+Base station log - 1x31 grid, 6 ports per node, threshold 2
+
+REPORT #1  2026-10-20 20:26:40
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=1 free; rank 4=1 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #2  2026-10-20 20:26:40
+  reporting node : rank 17 at (0,17)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 16=0 free; rank 18=0 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #3  2026-10-20 20:26:40
+  reporting node : rank 1 at (0,1)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 0=2 free; rank 2=1 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #4  2026-10-20 20:26:40
+  reporting node : rank 2 at (0,2)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 1=0 free; rank 3=0 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #5  2026-10-20 20:26:40
+  reporting node : rank 4 at (0,4)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 3=0 free; rank 5=2 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #6  2026-10-20 20:26:40
+  reporting node : rank 16 at (0,16)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 15=1 free; rank 17=0 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #7  2026-10-20 20:26:40
+  reporting node : rank 18 at (0,18)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 17=0 free; rank 19=0 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #8  2026-10-20 20:26:40
+  reporting node : rank 19 at (0,19)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 18=1 free; rank 20=0 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #9  2026-10-20 20:26:40
+  reporting node : rank 15 at (0,15)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 14=2 free; rank 16=0 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #10  2026-10-20 20:26:40
+  reporting node : rank 0 at (0,0)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 1=2 free;
+  messages       : 2 messages, 8 bytes
+
+REPORT #11  2026-10-20 20:26:40
+  reporting node : rank 20 at (0,20)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 19=2 free; rank 21=1 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #12  2026-10-20 20:26:40
+  reporting node : rank 17 at (0,17)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 16=2 free; rank 18=1 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #13  2026-10-20 20:26:40
+  reporting node : rank 13 at (0,13)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 12=2 free; rank 14=0 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #14  2026-10-20 20:26:40
+  reporting node : rank 27 at (0,27)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 26=2 free; rank 28=0 free;
+  messages       : 6 messages, 24 bytes
+
+REPORT #15  2026-10-20 20:26:40
+  reporting node : rank 20 at (0,20)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 19=2 free; rank 21=0 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #16  2026-10-20 20:26:41
+  reporting node : rank 30 at (0,30)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 29=2 free;
+  messages       : 2 messages, 8 bytes
+
+REPORT #17  2026-10-20 20:26:41
+  reporting node : rank 21 at (0,21)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 20=2 free; rank 22=2 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #18  2026-10-20 20:26:41
+  reporting node : rank 22 at (0,22)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 21=2 free; rank 23=2 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #19  2026-10-20 20:26:41
+  reporting node : rank 20 at (0,20)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 19=2 free; rank 21=2 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #20  2026-10-20 20:26:41
+  reporting node : rank 21 at (0,21)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 20=2 free; rank 22=2 free;
+  messages       : 4 messages, 16 bytes
+
+REPORT #21  2026-10-20 20:26:42
+  reporting node : rank 4 at (0,4)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 3=2 free; rank 5=2 free;
+  messages       : 4 messages, 16 bytes
+
+Simulation complete after 4.08 s. 21 congestion reports received.
