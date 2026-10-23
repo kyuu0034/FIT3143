@@ -1,27 +1,3 @@
-/*
- * FIT3143 Lab 3 - Task 1: EV charging nodes  [NON-BLOCKING VERSION]
- *
- * Same behaviour as task1.c, but neighbour messaging uses non-blocking MPI:
- *   task1.c (blocking)       MPI_Send / MPI_Recv, and MPI_Iprobe polling with
- *                            a 0.1 ms sleep between checks while waiting.
- *   this file (non-blocking) MPI_Isend / MPI_Irecv, and MPI_Waitany, which
- *                            blocks inside MPI and wakes the instant a message
- *                            lands - no polling, no sleep floor.
- *
- * A standing MPI_Irecv is always posted for incoming neighbour requests, so a
- * node can answer others at the same moment it is waiting for its own replies.
- *
- * Run with m*n + 1 processes:
- *     mpirun -np 10 ./task1 3 3 6 2
- *     (3x3 grid, 6 ports per node, congestion threshold 2, + 1 base station)
- *
- * Communicators:
- *   cart_comm       - the m*n charging nodes only, arranged as a 2-D grid.
- *                     Used for neighbour-to-neighbour messages.
- *   MPI_COMM_WORLD  - everyone, including the base station.
- *                     Used for node <-> base station messages.
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
