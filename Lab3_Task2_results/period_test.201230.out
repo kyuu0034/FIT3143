@@ -1,0 +1,14 @@
+collect2: fatal error: ld terminated with signal 11 [Segmentation fault], core dumped
+compilation terminated.
+period 0.5 run 1 done
+period 0.5 run 2 done
+period 0.5 run 3 done
+period 1 run 1 done
+period 1 run 2 done
+period 1 run 3 done
+period 2 run 1 done
+period 2 run 2 done
+period 2 run 3 done
+period 5 run 1 done
+period 5 run 2 done
+period 5 run 3 done

@@ -1,0 +1,34 @@
+Mode: grid   configurations: 28   repeats: 1   seconds/run: 3
+Estimated time: 4 minutes (job limit is 10)
+
+[1/28] 2x2 (5 processes) done
+[2/28] 2x3 (7 processes) done
+[3/28] 2x4 (9 processes) done
+[4/28] 2x5 (11 processes) done
+[5/28] 2x6 (13 processes) done
+[6/28] 2x7 (15 processes) done
+[7/28] 2x8 (17 processes) done
+[8/28] 2x9 (19 processes) done
+[9/28] 2x10 (21 processes) done
+[10/28] 2x11 (23 processes) done
+[11/28] 2x12 (25 processes) done
+[12/28] 2x13 (27 processes) done
+[13/28] 2x14 (29 processes) done
+[14/28] 2x15 (31 processes) done
+[15/28] 3x3 (10 processes) done
+[16/28] 3x4 (13 processes) done
+[17/28] 3x5 (16 processes) done
+[18/28] 3x6 (19 processes) done
+[19/28] 3x7 (22 processes) done
+[20/28] 3x8 (25 processes) done
+[21/28] 3x9 (28 processes) done
+[22/28] 3x10 (31 processes) done
+[23/28] 4x4 (17 processes) done
+[24/28] 4x5 (21 processes) done
+[25/28] 4x6 (25 processes) done
+[26/28] 4x7 (29 processes) done
+[27/28] 5x5 (26 processes) done
+[28/28] 5x6 (31 processes) done
+
+Finished. Rows in timing.csv: 199
+          Rows in timing_nonblocking.csv: 198

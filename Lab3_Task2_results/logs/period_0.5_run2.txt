@@ -1,0 +1,3761 @@
+Base station log - 4x4 grid, 6 ports per node, threshold 4, report period 0.50 s, run length 10.0 s
+
+REPORT #1  2026-10-23 11:20:42  (t=0.265 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=2 free; rank 13=3 free; rank 15=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : 4 node(s) at distance 2: rank 6 (1,2); rank 9 (2,1); rank 11 (2,3); rank 12 (3,0);
+
+REPORT #2  2026-10-23 11:20:42  (t=0.265 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=2 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : 1 node(s) at distance 2: rank 7 (1,3);
+
+REPORT #3  2026-10-23 11:20:42  (t=0.265 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 9=2 free; rank 12=3 free; rank 14=3 free;
+  messages       : 12 messages, 48 bytes
+  suggestion     : 2 node(s) at distance 2: rank 5 (1,1); rank 8 (2,0);
+
+REPORT #4  2026-10-23 11:20:42  (t=0.271 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : 2 node(s) at distance 2: rank 1 (0,1); rank 6 (1,2);
+
+REPORT #5  2026-10-23 11:20:42  (t=0.272 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : 2 node(s) at distance 2: rank 1 (0,1); rank 6 (1,2);
+
+REPORT #6  2026-10-23 11:20:42  (t=0.272 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=2 free; rank 4=2 free; rank 6=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #7  2026-10-23 11:20:42  (t=0.272 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #8  2026-10-23 11:20:42  (t=0.515 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #9  2026-10-23 11:20:42  (t=0.515 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #10  2026-10-23 11:20:42  (t=0.516 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #11  2026-10-23 11:20:42  (t=0.516 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #12  2026-10-23 11:20:42  (t=0.516 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #13  2026-10-23 11:20:42  (t=0.516 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #14  2026-10-23 11:20:42  (t=0.516 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #15  2026-10-23 11:20:42  (t=0.517 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #16  2026-10-23 11:20:42  (t=0.517 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=2 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #17  2026-10-23 11:20:42  (t=0.521 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #18  2026-10-23 11:20:42  (t=0.521 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #19  2026-10-23 11:20:42  (t=0.522 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #20  2026-10-23 11:20:42  (t=0.522 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #21  2026-10-23 11:20:42  (t=0.523 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #22  2026-10-23 11:20:42  (t=0.523 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=2 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #23  2026-10-23 11:20:42  (t=0.523 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=2 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #24  2026-10-23 11:20:42  (t=0.766 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #25  2026-10-23 11:20:42  (t=0.766 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 6=1 free; rank 14=3 free; rank 9=0 free; rank 11=0 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #26  2026-10-23 11:20:42  (t=0.767 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=1 free; rank 8=3 free; rank 10=0 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #27  2026-10-23 11:20:42  (t=0.767 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=1 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #28  2026-10-23 11:20:42  (t=0.767 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 9=0 free; rank 12=0 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #29  2026-10-23 11:20:42  (t=0.768 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=0 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #30  2026-10-23 11:20:43  (t=1.016 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=4 free; rank 14=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #31  2026-10-23 11:20:43  (t=1.017 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #32  2026-10-23 11:20:43  (t=1.018 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=1 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #33  2026-10-23 11:20:43  (t=1.018 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 8=0 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #34  2026-10-23 11:20:43  (t=1.018 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=4 free; rank 12=4 free; rank 14=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #35  2026-10-23 11:20:43  (t=1.022 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #36  2026-10-23 11:20:43  (t=1.023 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=4 free; rank 9=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #37  2026-10-23 11:20:43  (t=1.023 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #38  2026-10-23 11:20:43  (t=1.023 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=4 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #39  2026-10-23 11:20:43  (t=1.024 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #40  2026-10-23 11:20:43  (t=1.024 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=2 free; rank 3=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #41  2026-10-23 11:20:43  (t=1.024 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=2 free; rank 9=4 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #42  2026-10-23 11:20:43  (t=1.267 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #43  2026-10-23 11:20:43  (t=1.269 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=0 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #44  2026-10-23 11:20:43  (t=1.269 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=4 free; rank 5=2 free; rank 7=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #45  2026-10-23 11:20:43  (t=1.517 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #46  2026-10-23 11:20:43  (t=1.518 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 10=4 free; rank 13=3 free; rank 15=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #47  2026-10-23 11:20:43  (t=1.519 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=4 free; rank 9=2 free; rank 11=3 free;
+  messages       : 12 messages, 48 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #48  2026-10-23 11:20:43  (t=1.519 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=2 free; rank 12=2 free; rank 14=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #49  2026-10-23 11:20:43  (t=1.523 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #50  2026-10-23 11:20:43  (t=1.524 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=4 free; rank 12=2 free; rank 9=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #51  2026-10-23 11:20:43  (t=1.524 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #52  2026-10-23 11:20:43  (t=1.524 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #53  2026-10-23 11:20:43  (t=1.525 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #54  2026-10-23 11:20:43  (t=1.525 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #55  2026-10-23 11:20:43  (t=1.526 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=2 free; rank 4=4 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #56  2026-10-23 11:20:43  (t=1.768 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #57  2026-10-23 11:20:43  (t=1.768 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=4 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #58  2026-10-23 11:20:43  (t=1.769 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #59  2026-10-23 11:20:43  (t=1.769 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #60  2026-10-23 11:20:43  (t=1.770 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=4 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 12 messages, 48 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #61  2026-10-23 11:20:43  (t=1.770 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=4 free; rank 15=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #62  2026-10-23 11:20:43  (t=1.770 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #63  2026-10-23 11:20:43  (t=1.770 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #64  2026-10-23 11:20:43  (t=1.771 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 2=2 free; rank 10=3 free; rank 5=3 free; rank 7=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #65  2026-10-23 11:20:43  (t=1.774 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #66  2026-10-23 11:20:43  (t=1.775 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #67  2026-10-23 11:20:43  (t=1.775 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #68  2026-10-23 11:20:43  (t=1.775 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #69  2026-10-23 11:20:43  (t=1.776 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #70  2026-10-23 11:20:43  (t=1.776 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #71  2026-10-23 11:20:43  (t=1.777 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #72  2026-10-23 11:20:44  (t=2.019 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=2 free; rank 14=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #73  2026-10-23 11:20:44  (t=2.019 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #74  2026-10-23 11:20:44  (t=2.020 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=2 free; rank 8=3 free; rank 10=2 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #75  2026-10-23 11:20:44  (t=2.020 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 10=2 free; rank 13=2 free; rank 15=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #76  2026-10-23 11:20:44  (t=2.020 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=4 free; rank 9=4 free; rank 11=2 free;
+  messages       : 14 messages, 56 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #77  2026-10-23 11:20:44  (t=2.021 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #78  2026-10-23 11:20:44  (t=2.021 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=4 free; rank 12=3 free; rank 14=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #79  2026-10-23 11:20:44  (t=2.021 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #80  2026-10-23 11:20:44  (t=2.021 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=2 free; rank 5=4 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #81  2026-10-23 11:20:44  (t=2.025 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=4 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #82  2026-10-23 11:20:44  (t=2.026 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #83  2026-10-23 11:20:44  (t=2.026 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #84  2026-10-23 11:20:44  (t=2.026 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=2 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #85  2026-10-23 11:20:44  (t=2.027 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=2 free; rank 3=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #86  2026-10-23 11:20:44  (t=2.027 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #87  2026-10-23 11:20:44  (t=2.028 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 1=2 free; rank 9=4 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #88  2026-10-23 11:20:44  (t=2.270 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 11=4 free; rank 14=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #89  2026-10-23 11:20:44  (t=2.270 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #90  2026-10-23 11:20:44  (t=2.271 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=4 free; rank 13=4 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #91  2026-10-23 11:20:44  (t=2.271 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=4 free; rank 15=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #92  2026-10-23 11:20:44  (t=2.271 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=4 free; rank 9=3 free; rank 11=4 free;
+  messages       : 12 messages, 48 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #93  2026-10-23 11:20:44  (t=2.272 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=4 free; rank 14=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #94  2026-10-23 11:20:44  (t=2.272 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=4 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #95  2026-10-23 11:20:44  (t=2.272 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #96  2026-10-23 11:20:44  (t=2.273 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=4 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #97  2026-10-23 11:20:44  (t=2.276 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #98  2026-10-23 11:20:44  (t=2.277 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=4 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #99  2026-10-23 11:20:44  (t=2.277 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #100  2026-10-23 11:20:44  (t=2.277 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=4 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #101  2026-10-23 11:20:44  (t=2.278 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #102  2026-10-23 11:20:44  (t=2.278 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #103  2026-10-23 11:20:44  (t=2.279 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #104  2026-10-23 11:20:44  (t=2.520 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #105  2026-10-23 11:20:44  (t=2.521 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #106  2026-10-23 11:20:44  (t=2.522 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=2 free; rank 8=3 free; rank 10=4 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #107  2026-10-23 11:20:44  (t=2.522 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 10=4 free; rank 13=2 free; rank 15=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #108  2026-10-23 11:20:44  (t=2.522 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=2 free; rank 9=3 free; rank 11=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #109  2026-10-23 11:20:44  (t=2.522 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #110  2026-10-23 11:20:44  (t=2.523 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=2 free; rank 15=2 free; rank 10=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #111  2026-10-23 11:20:44  (t=2.523 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #112  2026-10-23 11:20:44  (t=2.524 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=4 free; rank 10=4 free; rank 5=2 free; rank 7=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #113  2026-10-23 11:20:44  (t=2.527 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=4 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #114  2026-10-23 11:20:44  (t=2.528 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #115  2026-10-23 11:20:44  (t=2.528 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=2 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #116  2026-10-23 11:20:44  (t=2.528 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #117  2026-10-23 11:20:44  (t=2.529 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=4 free; rank 8=3 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #118  2026-10-23 11:20:44  (t=2.529 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=2 free; rank 1=4 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #119  2026-10-23 11:20:44  (t=2.530 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=4 free; rank 9=3 free; rank 4=3 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #120  2026-10-23 11:20:44  (t=2.771 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 11=0 free; rank 14=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #121  2026-10-23 11:20:44  (t=2.772 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #122  2026-10-23 11:20:44  (t=2.773 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 7=0 free; rank 15=0 free; rank 10=0 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #123  2026-10-23 11:20:44  (t=2.779 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 7=0 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #124  2026-10-23 11:20:44  (t=2.779 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 3=0 free; rank 11=0 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #125  2026-10-23 11:20:45  (t=3.022 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #126  2026-10-23 11:20:45  (t=3.023 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #127  2026-10-23 11:20:45  (t=3.023 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=2 free; rank 8=3 free; rank 10=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #128  2026-10-23 11:20:45  (t=3.023 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=2 free; rank 13=2 free; rank 15=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #129  2026-10-23 11:20:45  (t=3.023 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=4 free; rank 12=4 free; rank 14=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #130  2026-10-23 11:20:45  (t=3.024 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #131  2026-10-23 11:20:45  (t=3.024 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=4 free; rank 14=3 free; rank 9=4 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #132  2026-10-23 11:20:45  (t=3.024 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=2 free; rank 15=4 free; rank 10=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #133  2026-10-23 11:20:45  (t=3.025 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 2=2 free; rank 10=2 free; rank 5=2 free; rank 7=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #134  2026-10-23 11:20:45  (t=3.028 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=4 free; rank 2=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #135  2026-10-23 11:20:45  (t=3.029 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 12=4 free; rank 9=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #136  2026-10-23 11:20:45  (t=3.030 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 0=4 free; rank 8=3 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #137  2026-10-23 11:20:45  (t=3.030 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 3=4 free; rank 11=3 free; rank 6=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #138  2026-10-23 11:20:45  (t=3.030 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=4 free; rank 1=3 free; rank 3=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #139  2026-10-23 11:20:45  (t=3.030 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=2 free; rank 2=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #140  2026-10-23 11:20:45  (t=3.031 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=4 free; rank 4=2 free; rank 6=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #141  2026-10-23 11:20:45  (t=3.272 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=2 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #142  2026-10-23 11:20:45  (t=3.274 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #143  2026-10-23 11:20:45  (t=3.274 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=4 free; rank 8=4 free; rank 10=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #144  2026-10-23 11:20:45  (t=3.274 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=2 free; rank 13=4 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #145  2026-10-23 11:20:45  (t=3.274 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #146  2026-10-23 11:20:45  (t=3.275 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=4 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #147  2026-10-23 11:20:45  (t=3.275 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=3 free; rank 9=3 free; rank 11=2 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #148  2026-10-23 11:20:45  (t=3.275 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #149  2026-10-23 11:20:45  (t=3.276 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=2 free; rank 5=2 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #150  2026-10-23 11:20:45  (t=3.279 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #151  2026-10-23 11:20:45  (t=3.280 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=4 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #152  2026-10-23 11:20:45  (t=3.281 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #153  2026-10-23 11:20:45  (t=3.281 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=2 free; rank 1=3 free; rank 3=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #154  2026-10-23 11:20:45  (t=3.281 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #155  2026-10-23 11:20:45  (t=3.281 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=2 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #156  2026-10-23 11:20:45  (t=3.281 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #157  2026-10-23 11:20:45  (t=3.523 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #158  2026-10-23 11:20:45  (t=3.524 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #159  2026-10-23 11:20:45  (t=3.525 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #160  2026-10-23 11:20:45  (t=3.525 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #161  2026-10-23 11:20:45  (t=3.525 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #162  2026-10-23 11:20:45  (t=3.525 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #163  2026-10-23 11:20:45  (t=3.526 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #164  2026-10-23 11:20:45  (t=3.526 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #165  2026-10-23 11:20:45  (t=3.527 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #166  2026-10-23 11:20:45  (t=3.529 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #167  2026-10-23 11:20:45  (t=3.531 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #168  2026-10-23 11:20:45  (t=3.531 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #169  2026-10-23 11:20:45  (t=3.532 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #170  2026-10-23 11:20:45  (t=3.532 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #171  2026-10-23 11:20:45  (t=3.532 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #172  2026-10-23 11:20:45  (t=3.532 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #173  2026-10-23 11:20:45  (t=3.774 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=4 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #174  2026-10-23 11:20:45  (t=3.775 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=2 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #175  2026-10-23 11:20:45  (t=3.776 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #176  2026-10-23 11:20:45  (t=3.776 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=2 free; rank 8=4 free; rank 10=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #177  2026-10-23 11:20:45  (t=3.776 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=4 free; rank 14=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #178  2026-10-23 11:20:45  (t=3.776 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #179  2026-10-23 11:20:45  (t=3.776 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #180  2026-10-23 11:20:45  (t=3.777 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #181  2026-10-23 11:20:45  (t=3.778 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #182  2026-10-23 11:20:45  (t=3.780 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #183  2026-10-23 11:20:45  (t=3.782 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=4 free; rank 9=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #184  2026-10-23 11:20:45  (t=3.782 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #185  2026-10-23 11:20:45  (t=3.783 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #186  2026-10-23 11:20:45  (t=3.783 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #187  2026-10-23 11:20:45  (t=3.783 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=4 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #188  2026-10-23 11:20:45  (t=3.783 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #189  2026-10-23 11:20:46  (t=4.025 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=4 free; rank 14=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #190  2026-10-23 11:20:46  (t=4.026 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 10=4 free; rank 13=3 free; rank 15=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #191  2026-10-23 11:20:46  (t=4.026 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #192  2026-10-23 11:20:46  (t=4.027 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=3 free; rank 8=3 free; rank 10=4 free;
+  messages       : 12 messages, 48 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #193  2026-10-23 11:20:46  (t=4.027 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=4 free; rank 12=3 free; rank 14=2 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #194  2026-10-23 11:20:46  (t=4.027 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #195  2026-10-23 11:20:46  (t=4.027 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=2 free; rank 9=4 free; rank 11=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #196  2026-10-23 11:20:46  (t=4.028 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=4 free; rank 15=2 free; rank 10=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #197  2026-10-23 11:20:46  (t=4.029 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=2 free; rank 10=4 free; rank 5=2 free; rank 7=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #198  2026-10-23 11:20:46  (t=4.031 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=3 free; rank 2=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #199  2026-10-23 11:20:46  (t=4.033 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #200  2026-10-23 11:20:46  (t=4.033 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 12=3 free; rank 9=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #201  2026-10-23 11:20:46  (t=4.033 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #202  2026-10-23 11:20:46  (t=4.034 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #203  2026-10-23 11:20:46  (t=4.034 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=4 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #204  2026-10-23 11:20:46  (t=4.035 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=4 free; rank 4=2 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #205  2026-10-23 11:20:46  (t=4.526 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=2 free; rank 14=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #206  2026-10-23 11:20:46  (t=4.527 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 10=2 free; rank 13=2 free; rank 15=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #207  2026-10-23 11:20:46  (t=4.528 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #208  2026-10-23 11:20:46  (t=4.528 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=2 free; rank 12=2 free; rank 14=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #209  2026-10-23 11:20:46  (t=4.528 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 8=2 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #210  2026-10-23 11:20:46  (t=4.528 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=2 free; rank 9=2 free; rank 11=2 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #211  2026-10-23 11:20:46  (t=4.529 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=2 free; rank 8=2 free; rank 10=2 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #212  2026-10-23 11:20:46  (t=4.529 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=2 free; rank 15=2 free; rank 10=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #213  2026-10-23 11:20:46  (t=4.531 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=2 free; rank 10=2 free; rank 5=2 free; rank 7=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #214  2026-10-23 11:20:46  (t=4.532 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=2 free; rank 2=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #215  2026-10-23 11:20:46  (t=4.534 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 0=2 free; rank 8=2 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : 1 node(s) at distance 4: rank 3 (0,3);
+
+REPORT #216  2026-10-23 11:20:46  (t=4.535 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 4=2 free; rank 12=2 free; rank 9=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : 1 node(s) at distance 5: rank 3 (0,3);
+
+REPORT #217  2026-10-23 11:20:46  (t=4.535 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=2 free; rank 2=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #218  2026-10-23 11:20:46  (t=4.535 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=2 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #219  2026-10-23 11:20:46  (t=4.535 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=2 free; rank 1=2 free; rank 3=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #220  2026-10-23 11:20:46  (t=4.536 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=2 free; rank 9=2 free; rank 4=2 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #221  2026-10-23 11:20:46  (t=4.776 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #222  2026-10-23 11:20:46  (t=4.778 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=4 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #223  2026-10-23 11:20:46  (t=4.779 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #224  2026-10-23 11:20:46  (t=4.779 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=2 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #225  2026-10-23 11:20:46  (t=4.779 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #226  2026-10-23 11:20:46  (t=4.779 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #227  2026-10-23 11:20:46  (t=4.779 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=4 free; rank 8=4 free; rank 10=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #228  2026-10-23 11:20:46  (t=4.780 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #229  2026-10-23 11:20:46  (t=4.782 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=4 free; rank 10=3 free; rank 5=2 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #230  2026-10-23 11:20:46  (t=4.783 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=3 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #231  2026-10-23 11:20:46  (t=4.785 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #232  2026-10-23 11:20:46  (t=4.786 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=2 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #233  2026-10-23 11:20:46  (t=4.786 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=2 free; rank 3=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #234  2026-10-23 11:20:46  (t=4.786 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #235  2026-10-23 11:20:46  (t=4.786 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #236  2026-10-23 11:20:46  (t=4.787 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=2 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #237  2026-10-23 11:20:47  (t=5.030 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #238  2026-10-23 11:20:47  (t=5.030 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 9=1 free; rank 12=3 free; rank 14=1 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #239  2026-10-23 11:20:47  (t=5.030 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #240  2026-10-23 11:20:47  (t=5.037 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=1 free; rank 6=1 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #241  2026-10-23 11:20:47  (t=5.037 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 12=3 free; rank 9=1 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #242  2026-10-23 11:20:47  (t=5.277 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #243  2026-10-23 11:20:47  (t=5.279 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=2 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #244  2026-10-23 11:20:47  (t=5.280 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #245  2026-10-23 11:20:47  (t=5.280 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #246  2026-10-23 11:20:47  (t=5.281 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #247  2026-10-23 11:20:47  (t=5.281 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #248  2026-10-23 11:20:47  (t=5.281 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=2 free; rank 8=4 free; rank 10=3 free;
+  messages       : 10 messages, 40 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #249  2026-10-23 11:20:47  (t=5.282 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #250  2026-10-23 11:20:47  (t=5.283 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #251  2026-10-23 11:20:47  (t=5.284 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #252  2026-10-23 11:20:47  (t=5.286 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #253  2026-10-23 11:20:47  (t=5.287 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=2 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #254  2026-10-23 11:20:47  (t=5.287 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #255  2026-10-23 11:20:47  (t=5.288 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #256  2026-10-23 11:20:47  (t=5.288 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #257  2026-10-23 11:20:47  (t=5.288 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=2 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #258  2026-10-23 11:20:47  (t=5.528 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #259  2026-10-23 11:20:47  (t=5.530 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #260  2026-10-23 11:20:47  (t=5.531 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #261  2026-10-23 11:20:47  (t=5.531 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #262  2026-10-23 11:20:47  (t=5.532 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #263  2026-10-23 11:20:47  (t=5.532 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #264  2026-10-23 11:20:47  (t=5.532 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #265  2026-10-23 11:20:47  (t=5.533 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #266  2026-10-23 11:20:47  (t=5.535 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #267  2026-10-23 11:20:47  (t=5.535 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #268  2026-10-23 11:20:47  (t=5.537 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #269  2026-10-23 11:20:47  (t=5.538 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #270  2026-10-23 11:20:47  (t=5.538 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #271  2026-10-23 11:20:47  (t=5.539 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #272  2026-10-23 11:20:47  (t=5.539 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #273  2026-10-23 11:20:47  (t=5.539 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #274  2026-10-23 11:20:47  (t=5.779 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #275  2026-10-23 11:20:47  (t=5.780 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=2 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #276  2026-10-23 11:20:47  (t=5.782 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #277  2026-10-23 11:20:47  (t=5.782 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=4 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #278  2026-10-23 11:20:47  (t=5.783 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=4 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #279  2026-10-23 11:20:47  (t=5.783 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #280  2026-10-23 11:20:47  (t=5.783 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=2 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #281  2026-10-23 11:20:47  (t=5.783 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=4 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #282  2026-10-23 11:20:47  (t=5.785 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #283  2026-10-23 11:20:47  (t=5.786 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #284  2026-10-23 11:20:47  (t=5.788 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #285  2026-10-23 11:20:47  (t=5.788 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=2 free; rank 3=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #286  2026-10-23 11:20:47  (t=5.789 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #287  2026-10-23 11:20:47  (t=5.790 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #288  2026-10-23 11:20:47  (t=5.790 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #289  2026-10-23 11:20:47  (t=5.790 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=2 free; rank 9=4 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #290  2026-10-23 11:20:48  (t=6.029 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=4 free; rank 14=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #291  2026-10-23 11:20:48  (t=6.031 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #292  2026-10-23 11:20:48  (t=6.033 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #293  2026-10-23 11:20:48  (t=6.033 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=4 free; rank 9=2 free; rank 11=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #294  2026-10-23 11:20:48  (t=6.033 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=2 free; rank 12=2 free; rank 14=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #295  2026-10-23 11:20:48  (t=6.033 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #296  2026-10-23 11:20:48  (t=6.034 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=4 free; rank 13=3 free; rank 8=4 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #297  2026-10-23 11:20:48  (t=6.034 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=2 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #298  2026-10-23 11:20:48  (t=6.036 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=4 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #299  2026-10-23 11:20:48  (t=6.037 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=4 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #300  2026-10-23 11:20:48  (t=6.039 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #301  2026-10-23 11:20:48  (t=6.039 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=2 free; rank 1=3 free; rank 3=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #302  2026-10-23 11:20:48  (t=6.040 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #303  2026-10-23 11:20:48  (t=6.041 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=4 free; rank 6=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #304  2026-10-23 11:20:48  (t=6.041 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=2 free; rank 9=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #305  2026-10-23 11:20:48  (t=6.041 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=2 free; rank 4=3 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #306  2026-10-23 11:20:48  (t=6.280 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #307  2026-10-23 11:20:48  (t=6.282 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=4 free; rank 13=2 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #308  2026-10-23 11:20:48  (t=6.284 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #309  2026-10-23 11:20:48  (t=6.284 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #310  2026-10-23 11:20:48  (t=6.284 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #311  2026-10-23 11:20:48  (t=6.284 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #312  2026-10-23 11:20:48  (t=6.285 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=2 free; rank 8=3 free; rank 10=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #313  2026-10-23 11:20:48  (t=6.285 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #314  2026-10-23 11:20:48  (t=6.287 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=4 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #315  2026-10-23 11:20:48  (t=6.288 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #316  2026-10-23 11:20:48  (t=6.290 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #317  2026-10-23 11:20:48  (t=6.290 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #318  2026-10-23 11:20:48  (t=6.291 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #319  2026-10-23 11:20:48  (t=6.292 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #320  2026-10-23 11:20:48  (t=6.292 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #321  2026-10-23 11:20:48  (t=6.292 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #322  2026-10-23 11:20:48  (t=6.531 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #323  2026-10-23 11:20:48  (t=6.532 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=2 free; rank 13=4 free; rank 15=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #324  2026-10-23 11:20:48  (t=6.535 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=2 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #325  2026-10-23 11:20:48  (t=6.535 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #326  2026-10-23 11:20:48  (t=6.535 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 9=2 free; rank 12=4 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #327  2026-10-23 11:20:48  (t=6.535 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #328  2026-10-23 11:20:48  (t=6.536 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=4 free; rank 8=3 free; rank 10=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #329  2026-10-23 11:20:48  (t=6.536 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=4 free; rank 15=2 free; rank 10=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #330  2026-10-23 11:20:48  (t=6.538 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=2 free; rank 5=3 free; rank 7=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #331  2026-10-23 11:20:48  (t=6.539 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #332  2026-10-23 11:20:48  (t=6.540 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #333  2026-10-23 11:20:48  (t=6.541 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=4 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #334  2026-10-23 11:20:48  (t=6.542 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #335  2026-10-23 11:20:48  (t=6.543 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #336  2026-10-23 11:20:48  (t=6.543 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 12=4 free; rank 9=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #337  2026-10-23 11:20:48  (t=6.543 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=4 free; rank 9=2 free; rank 4=2 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #338  2026-10-23 11:20:48  (t=6.782 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=4 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #339  2026-10-23 11:20:48  (t=6.783 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=2 free; rank 15=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #340  2026-10-23 11:20:48  (t=6.786 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=4 free; rank 14=3 free; rank 9=4 free; rank 11=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #341  2026-10-23 11:20:48  (t=6.786 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #342  2026-10-23 11:20:48  (t=6.786 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=4 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #343  2026-10-23 11:20:48  (t=6.786 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #344  2026-10-23 11:20:48  (t=6.787 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=2 free; rank 8=4 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #345  2026-10-23 11:20:48  (t=6.787 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=2 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #346  2026-10-23 11:20:48  (t=6.789 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 2=2 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #347  2026-10-23 11:20:48  (t=6.789 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #348  2026-10-23 11:20:48  (t=6.791 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #349  2026-10-23 11:20:48  (t=6.792 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=4 free; rank 1=2 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #350  2026-10-23 11:20:48  (t=6.793 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #351  2026-10-23 11:20:48  (t=6.794 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=4 free; rank 6=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #352  2026-10-23 11:20:48  (t=6.794 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=2 free; rank 9=4 free; rank 4=2 free; rank 6=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #353  2026-10-23 11:20:48  (t=6.794 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=2 free; rank 12=3 free; rank 9=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #354  2026-10-23 11:20:49  (t=7.032 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=4 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #355  2026-10-23 11:20:49  (t=7.033 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=4 free; rank 13=3 free; rank 15=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #356  2026-10-23 11:20:49  (t=7.036 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #357  2026-10-23 11:20:49  (t=7.037 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #358  2026-10-23 11:20:49  (t=7.037 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #359  2026-10-23 11:20:49  (t=7.037 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #360  2026-10-23 11:20:49  (t=7.038 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=3 free; rank 8=4 free; rank 10=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #361  2026-10-23 11:20:49  (t=7.038 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=2 free; rank 10=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #362  2026-10-23 11:20:49  (t=7.040 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=2 free; rank 10=4 free; rank 5=2 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #363  2026-10-23 11:20:49  (t=7.040 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=3 free; rank 2=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #364  2026-10-23 11:20:49  (t=7.042 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #365  2026-10-23 11:20:49  (t=7.043 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #366  2026-10-23 11:20:49  (t=7.044 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #367  2026-10-23 11:20:49  (t=7.044 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=4 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #368  2026-10-23 11:20:49  (t=7.045 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #369  2026-10-23 11:20:49  (t=7.045 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #370  2026-10-23 11:20:49  (t=7.283 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #371  2026-10-23 11:20:49  (t=7.284 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #372  2026-10-23 11:20:49  (t=7.287 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #373  2026-10-23 11:20:49  (t=7.288 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #374  2026-10-23 11:20:49  (t=7.288 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #375  2026-10-23 11:20:49  (t=7.288 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=2 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #376  2026-10-23 11:20:49  (t=7.289 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=2 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #377  2026-10-23 11:20:49  (t=7.289 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #378  2026-10-23 11:20:49  (t=7.291 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #379  2026-10-23 11:20:49  (t=7.291 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #380  2026-10-23 11:20:49  (t=7.293 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=2 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #381  2026-10-23 11:20:49  (t=7.294 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=2 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #382  2026-10-23 11:20:49  (t=7.295 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #383  2026-10-23 11:20:49  (t=7.296 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #384  2026-10-23 11:20:49  (t=7.296 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #385  2026-10-23 11:20:49  (t=7.296 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #386  2026-10-23 11:20:49  (t=7.534 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 11=0 free; rank 14=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #387  2026-10-23 11:20:49  (t=7.540 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 7=0 free; rank 15=4 free; rank 10=0 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #388  2026-10-23 11:20:49  (t=7.545 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 7=0 free; rank 2=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #389  2026-10-23 11:20:49  (t=7.547 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 3=0 free; rank 11=0 free; rank 6=0 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #390  2026-10-23 11:20:49  (t=7.785 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=2 free; rank 14=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #391  2026-10-23 11:20:49  (t=7.785 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #392  2026-10-23 11:20:49  (t=7.788 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #393  2026-10-23 11:20:49  (t=7.789 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=2 free; rank 14=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #394  2026-10-23 11:20:49  (t=7.789 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=4 free; rank 9=3 free; rank 11=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #395  2026-10-23 11:20:49  (t=7.789 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #396  2026-10-23 11:20:49  (t=7.790 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=3 free; rank 8=4 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #397  2026-10-23 11:20:49  (t=7.790 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=4 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #398  2026-10-23 11:20:49  (t=7.792 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=3 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #399  2026-10-23 11:20:49  (t=7.793 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=4 free; rank 10=3 free; rank 5=2 free; rank 7=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #400  2026-10-23 11:20:49  (t=7.794 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #401  2026-10-23 11:20:49  (t=7.795 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #402  2026-10-23 11:20:49  (t=7.796 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #403  2026-10-23 11:20:49  (t=7.797 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=2 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #404  2026-10-23 11:20:49  (t=7.797 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=2 free; rank 12=2 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #405  2026-10-23 11:20:49  (t=7.798 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=2 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #406  2026-10-23 11:20:50  (t=8.036 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #407  2026-10-23 11:20:50  (t=8.036 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #408  2026-10-23 11:20:50  (t=8.039 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #409  2026-10-23 11:20:50  (t=8.039 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #410  2026-10-23 11:20:50  (t=8.040 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #411  2026-10-23 11:20:50  (t=8.040 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #412  2026-10-23 11:20:50  (t=8.041 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #413  2026-10-23 11:20:50  (t=8.041 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #414  2026-10-23 11:20:50  (t=8.043 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #415  2026-10-23 11:20:50  (t=8.044 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #416  2026-10-23 11:20:50  (t=8.045 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #417  2026-10-23 11:20:50  (t=8.046 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #418  2026-10-23 11:20:50  (t=8.047 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #419  2026-10-23 11:20:50  (t=8.048 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #420  2026-10-23 11:20:50  (t=8.048 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #421  2026-10-23 11:20:50  (t=8.048 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #422  2026-10-23 11:20:50  (t=8.286 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #423  2026-10-23 11:20:50  (t=8.287 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #424  2026-10-23 11:20:50  (t=8.290 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #425  2026-10-23 11:20:50  (t=8.290 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #426  2026-10-23 11:20:50  (t=8.291 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #427  2026-10-23 11:20:50  (t=8.291 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #428  2026-10-23 11:20:50  (t=8.291 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #429  2026-10-23 11:20:50  (t=8.292 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #430  2026-10-23 11:20:50  (t=8.294 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #431  2026-10-23 11:20:50  (t=8.295 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #432  2026-10-23 11:20:50  (t=8.296 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #433  2026-10-23 11:20:50  (t=8.297 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #434  2026-10-23 11:20:50  (t=8.298 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #435  2026-10-23 11:20:50  (t=8.299 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #436  2026-10-23 11:20:50  (t=8.299 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #437  2026-10-23 11:20:50  (t=8.300 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #438  2026-10-23 11:20:50  (t=8.537 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #439  2026-10-23 11:20:50  (t=8.537 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=2 free; rank 13=3 free; rank 15=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #440  2026-10-23 11:20:50  (t=8.541 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=4 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #441  2026-10-23 11:20:50  (t=8.541 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #442  2026-10-23 11:20:50  (t=8.542 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #443  2026-10-23 11:20:50  (t=8.542 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #444  2026-10-23 11:20:50  (t=8.542 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=3 free; rank 8=3 free; rank 10=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #445  2026-10-23 11:20:50  (t=8.543 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=4 free; rank 15=2 free; rank 10=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #446  2026-10-23 11:20:50  (t=8.545 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=2 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #447  2026-10-23 11:20:50  (t=8.546 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=4 free; rank 10=2 free; rank 5=2 free; rank 7=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #448  2026-10-23 11:20:50  (t=8.546 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=2 free; rank 8=3 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #449  2026-10-23 11:20:50  (t=8.547 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #450  2026-10-23 11:20:50  (t=8.549 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #451  2026-10-23 11:20:50  (t=8.550 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=3 free; rank 4=3 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #452  2026-10-23 11:20:50  (t=8.550 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=4 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #453  2026-10-23 11:20:50  (t=8.551 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #454  2026-10-23 11:20:50  (t=8.788 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #455  2026-10-23 11:20:50  (t=8.788 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=3 free; rank 15=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #456  2026-10-23 11:20:50  (t=8.791 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=2 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #457  2026-10-23 11:20:50  (t=8.792 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=2 free; rank 1=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #458  2026-10-23 11:20:50  (t=8.792 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #459  2026-10-23 11:20:50  (t=8.793 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #460  2026-10-23 11:20:50  (t=8.793 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=4 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #461  2026-10-23 11:20:50  (t=8.794 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=4 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #462  2026-10-23 11:20:50  (t=8.796 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #463  2026-10-23 11:20:50  (t=8.797 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=3 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #464  2026-10-23 11:20:50  (t=8.797 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #465  2026-10-23 11:20:50  (t=8.798 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=4 free; rank 3=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #466  2026-10-23 11:20:50  (t=8.800 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #467  2026-10-23 11:20:50  (t=8.801 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=4 free; rank 9=3 free; rank 4=2 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #468  2026-10-23 11:20:50  (t=8.801 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=2 free; rank 12=2 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #469  2026-10-23 11:20:50  (t=8.802 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=4 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #470  2026-10-23 11:20:51  (t=9.039 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #471  2026-10-23 11:20:51  (t=9.039 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=4 free; rank 13=3 free; rank 15=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #472  2026-10-23 11:20:51  (t=9.042 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=2 free; rank 12=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #473  2026-10-23 11:20:51  (t=9.043 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #474  2026-10-23 11:20:51  (t=9.043 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=4 free; rank 14=3 free; rank 9=2 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #475  2026-10-23 11:20:51  (t=9.043 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=4 free; rank 13=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #476  2026-10-23 11:20:51  (t=9.044 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 5=3 free; rank 13=3 free; rank 8=4 free; rank 10=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #477  2026-10-23 11:20:51  (t=9.045 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=2 free; rank 15=3 free; rank 10=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #478  2026-10-23 11:20:51  (t=9.046 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=3 free; rank 0=3 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #479  2026-10-23 11:20:51  (t=9.048 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=4 free; rank 5=3 free; rank 7=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #480  2026-10-23 11:20:51  (t=9.048 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=4 free; rank 5=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #481  2026-10-23 11:20:51  (t=9.049 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=4 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #482  2026-10-23 11:20:51  (t=9.050 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=2 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #483  2026-10-23 11:20:51  (t=9.052 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=2 free; rank 4=3 free; rank 6=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #484  2026-10-23 11:20:51  (t=9.052 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #485  2026-10-23 11:20:51  (t=9.053 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #486  2026-10-23 11:20:51  (t=9.289 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #487  2026-10-23 11:20:51  (t=9.290 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 10=2 free; rank 13=3 free; rank 15=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #488  2026-10-23 11:20:51  (t=9.293 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 9=3 free; rank 12=4 free; rank 14=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #489  2026-10-23 11:20:51  (t=9.294 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #490  2026-10-23 11:20:51  (t=9.294 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=2 free; rank 9=3 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #491  2026-10-23 11:20:51  (t=9.294 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #492  2026-10-23 11:20:51  (t=9.295 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=4 free; rank 13=3 free; rank 8=3 free; rank 10=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #493  2026-10-23 11:20:51  (t=9.296 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=4 free; rank 10=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #494  2026-10-23 11:20:51  (t=9.297 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=4 free; rank 0=2 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #495  2026-10-23 11:20:51  (t=9.299 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=4 free; rank 10=2 free; rank 5=4 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #496  2026-10-23 11:20:51  (t=9.299 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=2 free; rank 8=3 free; rank 5=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #497  2026-10-23 11:20:51  (t=9.300 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=2 free; rank 1=4 free; rank 3=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #498  2026-10-23 11:20:51  (t=9.301 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #499  2026-10-23 11:20:51  (t=9.303 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 1=4 free; rank 9=3 free; rank 4=3 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #500  2026-10-23 11:20:51  (t=9.303 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=4 free; rank 9=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #501  2026-10-23 11:20:51  (t=9.304 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=3 free; rank 6=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #502  2026-10-23 11:20:51  (t=9.540 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 11=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #503  2026-10-23 11:20:51  (t=9.540 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=4 free; rank 15=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #504  2026-10-23 11:20:51  (t=9.543 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 9=4 free; rank 12=2 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #505  2026-10-23 11:20:51  (t=9.545 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 4=4 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #506  2026-10-23 11:20:51  (t=9.545 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #507  2026-10-23 11:20:51  (t=9.545 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 14=3 free; rank 9=4 free; rank 11=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #508  2026-10-23 11:20:51  (t=9.546 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=4 free; rank 13=4 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #509  2026-10-23 11:20:51  (t=9.547 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 15=3 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #510  2026-10-23 11:20:51  (t=9.548 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=4 free; rank 0=4 free; rank 2=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #511  2026-10-23 11:20:51  (t=9.550 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 0=4 free; rank 8=3 free; rank 5=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #512  2026-10-23 11:20:51  (t=9.550 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 2=3 free; rank 10=3 free; rank 5=4 free; rank 7=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #513  2026-10-23 11:20:51  (t=9.551 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=3 free; rank 1=3 free; rank 3=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #514  2026-10-23 11:20:51  (t=9.552 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 7=3 free; rank 2=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #515  2026-10-23 11:20:51  (t=9.554 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=4 free; rank 4=4 free; rank 6=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #516  2026-10-23 11:20:51  (t=9.554 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 3=3 free; rank 11=3 free; rank 6=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #517  2026-10-23 11:20:51  (t=9.555 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=4 free; rank 12=2 free; rank 9=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #518  2026-10-23 11:20:51  (t=9.791 s into run)
+  reporting node : rank 15 at (3,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 11=2 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #519  2026-10-23 11:20:51  (t=9.791 s into run)
+  reporting node : rank 14 at (3,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 10=3 free; rank 13=2 free; rank 15=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #520  2026-10-23 11:20:51  (t=9.794 s into run)
+  reporting node : rank 13 at (3,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 9=4 free; rank 12=3 free; rank 14=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #521  2026-10-23 11:20:51  (t=9.796 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 1=3 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #522  2026-10-23 11:20:51  (t=9.796 s into run)
+  reporting node : rank 12 at (3,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 8=3 free; rank 13=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #523  2026-10-23 11:20:51  (t=9.796 s into run)
+  reporting node : rank 10 at (2,2)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 6=2 free; rank 14=3 free; rank 9=4 free; rank 11=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #524  2026-10-23 11:20:51  (t=9.797 s into run)
+  reporting node : rank 9 at (2,1)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 5=2 free; rank 13=2 free; rank 8=3 free; rank 10=3 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #525  2026-10-23 11:20:51  (t=9.797 s into run)
+  reporting node : rank 11 at (2,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=4 free; rank 15=2 free; rank 10=3 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #526  2026-10-23 11:20:51  (t=9.799 s into run)
+  reporting node : rank 1 at (0,1)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 5=2 free; rank 0=3 free; rank 2=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #527  2026-10-23 11:20:51  (t=9.801 s into run)
+  reporting node : rank 4 at (1,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 0=3 free; rank 8=3 free; rank 5=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #528  2026-10-23 11:20:51  (t=9.801 s into run)
+  reporting node : rank 6 at (1,2)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 2=4 free; rank 10=3 free; rank 5=2 free; rank 7=4 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #529  2026-10-23 11:20:51  (t=9.802 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 6=2 free; rank 1=3 free; rank 3=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #530  2026-10-23 11:20:51  (t=9.803 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=4 free; rank 2=4 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #531  2026-10-23 11:20:51  (t=9.804 s into run)
+  reporting node : rank 5 at (1,1)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 1=3 free; rank 9=4 free; rank 4=3 free; rank 6=2 free;
+  messages       : 8 messages, 32 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #532  2026-10-23 11:20:51  (t=9.805 s into run)
+  reporting node : rank 7 at (1,3)
+  availability   : 4 of 6 ports free
+  neighbours     : rank 3=2 free; rank 11=2 free; rank 6=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+REPORT #533  2026-10-23 11:20:51  (t=9.805 s into run)
+  reporting node : rank 8 at (2,0)
+  availability   : 3 of 6 ports free
+  neighbours     : rank 4=3 free; rank 12=3 free; rank 9=4 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : none - no nodes available nearby
+
+================ SUMMARY ================
+Simulation time          : 11.06 s
+Grid / ports / threshold : 4x4 / 6 / 4   (report period 0.50 s)
+Congestion alerts        : 533
+  answered with nodes    : 7
+  answered 'none nearby' : 526
+Messages at base station : 549 received (46564 bytes), 549 sent (70420 bytes)
+Messages sent by nodes   : 4025 (60468 bytes)
+Total messages in system : 4574 (node-sent + base-sent)
+
+Per-node statistics (rank, coords, cycles, msgs sent, msgs received):
+  node 15 (3,3)  cycles  39  sent   184  recv   184
+  node 14 (3,2)  cycles  39  sent   258  recv   258
+  node 13 (3,1)  cycles  39  sent   255  recv   255
+  node  0 (0,0)  cycles  39  sent   174  recv   174
+  node 12 (3,0)  cycles  39  sent   178  recv   178
+  node 10 (2,2)  cycles  39  sent   329  recv   329
+  node  9 (2,1)  cycles  39  sent   318  recv   318
+  node 11 (2,3)  cycles  39  sent   258  recv   258
+  node  1 (0,1)  cycles  39  sent   238  recv   238
+  node  4 (1,0)  cycles  39  sent   247  recv   247
+  node  6 (1,2)  cycles  39  sent   328  recv   328
+  node  2 (0,2)  cycles  39  sent   251  recv   251
+  node  3 (0,3)  cycles  39  sent   184  recv   184
+  node  5 (1,1)  cycles  39  sent   317  recv   317
+  node  7 (1,3)  cycles  39  sent   259  recv   259
+  node  8 (2,0)  cycles  39  sent   247  recv   247
+Simulation complete.

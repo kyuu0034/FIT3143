@@ -1,0 +1,171 @@
+Base station log - 1x31 grid, 6 ports per node, threshold 2, report period 2.00 s, run length 3.0 s
+
+REPORT #1  2026-10-23 11:25:49  (t=0.784 s into run)
+  reporting node : rank 29 at (0,29)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 28=0 free; rank 30=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 2: rank 27 (0,27);
+
+REPORT #2  2026-10-23 11:25:49  (t=0.786 s into run)
+  reporting node : rank 24 at (0,24)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 23=2 free; rank 25=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 2 node(s) at distance 2: rank 22 (0,22); rank 26 (0,26);
+
+REPORT #3  2026-10-23 11:25:49  (t=0.786 s into run)
+  reporting node : rank 9 at (0,9)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 8=1 free; rank 10=1 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 2 node(s) at distance 2: rank 7 (0,7); rank 11 (0,11);
+
+REPORT #4  2026-10-23 11:25:49  (t=0.787 s into run)
+  reporting node : rank 12 at (0,12)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 11=0 free; rank 13=1 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 2: rank 14 (0,14);
+
+REPORT #5  2026-10-23 11:25:49  (t=1.024 s into run)
+  reporting node : rank 30 at (0,30)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 29=0 free;
+  messages       : 2 messages, 8 bytes
+  suggestion     : 1 node(s) at distance 3: rank 27 (0,27);
+
+REPORT #6  2026-10-23 11:25:49  (t=1.027 s into run)
+  reporting node : rank 11 at (0,11)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 10=0 free; rank 12=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 3: rank 14 (0,14);
+
+REPORT #7  2026-10-23 11:25:49  (t=1.031 s into run)
+  reporting node : rank 8 at (0,8)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=2 free; rank 9=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 2: rank 6 (0,6);
+
+REPORT #8  2026-10-23 11:25:49  (t=1.273 s into run)
+  reporting node : rank 17 at (0,17)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 16=2 free; rank 18=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 2 node(s) at distance 2: rank 15 (0,15); rank 19 (0,19);
+
+REPORT #9  2026-10-23 11:25:49  (t=1.284 s into run)
+  reporting node : rank 18 at (0,18)
+  availability   : 1 of 6 ports free
+  neighbours     : rank 17=0 free; rank 19=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 2: rank 20 (0,20);
+
+REPORT #10  2026-10-23 11:25:49  (t=1.286 s into run)
+  reporting node : rank 24 at (0,24)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 23=2 free; rank 25=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 2 node(s) at distance 2: rank 22 (0,22); rank 26 (0,26);
+
+REPORT #11  2026-10-23 11:25:49  (t=1.287 s into run)
+  reporting node : rank 2 at (0,2)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 1=2 free; rank 3=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 2 node(s) at distance 2: rank 0 (0,0); rank 4 (0,4);
+
+REPORT #12  2026-10-23 11:25:49  (t=1.288 s into run)
+  reporting node : rank 3 at (0,3)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 2=0 free; rank 4=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 2: rank 5 (0,5);
+
+REPORT #13  2026-10-23 11:25:49  (t=1.524 s into run)
+  reporting node : rank 17 at (0,17)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 16=1 free; rank 18=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 2: rank 15 (0,15);
+
+REPORT #14  2026-10-23 11:25:49  (t=1.526 s into run)
+  reporting node : rank 26 at (0,26)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 25=0 free; rank 27=2 free;
+  messages       : 6 messages, 24 bytes
+  suggestion     : 1 node(s) at distance 4: rank 22 (0,22);
+
+REPORT #15  2026-10-23 11:25:50  (t=2.279 s into run)
+  reporting node : rank 22 at (0,22)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 21=2 free; rank 23=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 2: rank 20 (0,20);
+
+REPORT #16  2026-10-23 11:25:50  (t=2.533 s into run)
+  reporting node : rank 8 at (0,8)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 7=2 free; rank 9=2 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 2: rank 6 (0,6);
+
+REPORT #17  2026-10-23 11:25:51  (t=2.781 s into run)
+  reporting node : rank 19 at (0,19)
+  availability   : 2 of 6 ports free
+  neighbours     : rank 18=2 free; rank 20=0 free;
+  messages       : 4 messages, 16 bytes
+  suggestion     : 1 node(s) at distance 4: rank 15 (0,15);
+
+REPORT #18  2026-10-23 11:25:51  (t=2.788 s into run)
+  reporting node : rank 0 at (0,0)
+  availability   : 0 of 6 ports free
+  neighbours     : rank 1=0 free;
+  messages       : 2 messages, 8 bytes
+  suggestion     : 1 node(s) at distance 5: rank 5 (0,5);
+
+================ SUMMARY ================
+Simulation time          : 4.05 s
+Grid / ports / threshold : 1x31 / 6 / 2   (report period 2.00 s)
+Congestion alerts        : 18
+  answered with nodes    : 18
+  answered 'none nearby' : 0
+Messages at base station : 49 received (4984 bytes), 49 sent (2500 bytes)
+Messages sent by nodes   : 413 (6440 bytes)
+Total messages in system : 462 (node-sent + base-sent)
+
+Per-node statistics (rank, coords, cycles, msgs sent, msgs received):
+  node 17 (0,17)  cycles  11  sent    15  recv    15
+  node 30 (0,30)  cycles  11  sent     7  recv     7
+  node 21 (0,21)  cycles  11  sent    10  recv    10
+  node 20 (0,20)  cycles  11  sent    12  recv    12
+  node 27 (0,27)  cycles  11  sent    16  recv    16
+  node 26 (0,26)  cycles  11  sent    19  recv    19
+  node 14 (0,14)  cycles  11  sent     6  recv     6
+  node 11 (0,11)  cycles  11  sent    20  recv    20
+  node 12 (0,12)  cycles  11  sent    15  recv    15
+  node 13 (0,13)  cycles  11  sent    10  recv    10
+  node 16 (0,16)  cycles  11  sent    10  recv    10
+  node  4 (0,4)  cycles  11  sent    12  recv    12
+  node  6 (0,6)  cycles  11  sent     8  recv     8
+  node  7 (0,7)  cycles  11  sent    15  recv    15
+  node  8 (0,8)  cycles  11  sent    22  recv    22
+  node 10 (0,10)  cycles  11  sent    20  recv    20
+  node 15 (0,15)  cycles  11  sent     5  recv     5
+  node 19 (0,19)  cycles  11  sent    14  recv    14
+  node 23 (0,23)  cycles  11  sent    14  recv    14
+  node 22 (0,22)  cycles  11  sent    11  recv    11
+  node 18 (0,18)  cycles  11  sent    14  recv    14
+  node 24 (0,24)  cycles  11  sent    20  recv    20
+  node 29 (0,29)  cycles  11  sent    12  recv    12
+  node 25 (0,25)  cycles  11  sent    19  recv    19
+  node 28 (0,28)  cycles  11  sent    13  recv    13
+  node  1 (0,1)  cycles  11  sent    14  recv    14
+  node  2 (0,2)  cycles  11  sent    11  recv    11
+  node  0 (0,0)  cycles  11  sent     9  recv     9
+  node  5 (0,5)  cycles  11  sent     8  recv     8
+  node  9 (0,9)  cycles  11  sent    21  recv    21
+  node  3 (0,3)  cycles  11  sent    11  recv    11
+Simulation complete.

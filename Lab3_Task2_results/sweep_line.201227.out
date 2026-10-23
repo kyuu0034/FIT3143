@@ -1,0 +1,36 @@
+Mode: line   configurations: 30   repeats: 1   seconds/run: 3
+Estimated time: 5 minutes (job limit is 10)
+
+[1/30] 1x2 (3 processes) done
+[2/30] 1x3 (4 processes) done
+[3/30] 1x4 (5 processes) done
+[4/30] 1x5 (6 processes) done
+[5/30] 1x6 (7 processes) done
+[6/30] 1x7 (8 processes) done
+[7/30] 1x8 (9 processes) done
+[8/30] 1x9 (10 processes) done
+[9/30] 1x10 (11 processes) done
+[10/30] 1x11 (12 processes) done
+[11/30] 1x12 (13 processes) done
+[12/30] 1x13 (14 processes) done
+[13/30] 1x14 (15 processes) done
+[14/30] 1x15 (16 processes) done
+[15/30] 1x16 (17 processes) done
+[16/30] 1x17 (18 processes) done
+[17/30] 1x18 (19 processes) done
+[18/30] 1x19 (20 processes) done
+[19/30] 1x20 (21 processes) done
+[20/30] 1x21 (22 processes) done
+[21/30] 1x22 (23 processes) done
+[22/30] 1x23 (24 processes) done
+[23/30] 1x24 (25 processes) done
+[24/30] 1x25 (26 processes) done
+[25/30] 1x26 (27 processes) done
+[26/30] 1x27 (28 processes) done
+[27/30] 1x28 (29 processes) done
+[28/30] 1x29 (30 processes) done
+[29/30] 1x30 (31 processes) done
+[30/30] 1x31 (32 processes) done
+
+Finished. Rows in timing.csv: 203
+          Rows in timing_nonblocking.csv: 201
