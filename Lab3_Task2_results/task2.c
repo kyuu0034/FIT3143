@@ -1,5 +1,5 @@
 /*
- * FIT3143 Lab 3 - Task 1: EV charging nodes
+ * FIT3143 Lab 3 - Task 2: EV charging nodes
  * Step 4: grid + OpenMP ports + neighbour exchange + report to base station
  *
  * Run with m*n + 1 processes:
